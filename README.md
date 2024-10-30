@@ -10,7 +10,7 @@ This guide provides a complete list of **Git** and **GitHub** commands, from the
 
 - `git init` - Initialize a new Git repository in the current directory.
 - `git config --global user.name "Your Name"` - Set the username for all repositories on the system.
-- `git config --global user.email "youyouyou@example.com"` - Set the email for all repositories on the system.
+- `git config --global user.email "you@example.com"` - Set the email for all repositories on the system.
 
 ### **2. Checking Status and Logs**
 
